@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Painting Studio",
+  "description": "An AI-powered web application that transforms your photos into beautiful artistic paintings in various styles. Upload your image, select a style like Oil Painting, Pencil Sketch, or Anime, and watch the AI generate a masterpiece.",
+  "requestFramePermissions": []
+}
